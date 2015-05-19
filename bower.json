@@ -1,8 +1,8 @@
 {
   "name": "ember-cli-shims",
   "main": [
-    "app-shims.js",
-    "test-shims.js"
+    "app/app-shims.js",
+    "app/test-shims.js"
   ],
   "version": "0.0.3",
   "homepage": "https://github.com/ember-cli/ember-cli-shims",
