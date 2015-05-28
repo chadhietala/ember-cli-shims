@@ -5,7 +5,7 @@
 
   var shims = {
     'ember': {
-      'default': Ember
+      'default': require('ember').default
     },
     'ember-data': {
       'default': _DS
