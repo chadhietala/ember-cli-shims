@@ -5,13 +5,13 @@
 
   var shims = {
     'ember': {
-      'default': require('ember').default
+      'default': Ember
     },
     'ember-data': {
       'default': _DS
     },
     'jquery': {
-      'default': jQuery
+      'default': require('npm:jquery').default
     }
   };
 
